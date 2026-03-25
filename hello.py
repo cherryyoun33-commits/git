@@ -1,5 +1,3 @@
 print("==============")
 print("hello world")
 print("==============")
-print("hi git")
-print("hi git2")
